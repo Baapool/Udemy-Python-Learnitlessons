@@ -1,6 +1,6 @@
 # 1. Print a short story using multiple lines.
 # TODO: 
-
+print("T")
 # 2. Create a string that includes both single and double quotes.
 # TODO:
 
