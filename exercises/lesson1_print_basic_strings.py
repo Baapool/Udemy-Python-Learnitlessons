@@ -1,6 +1,6 @@
 # 1. Print a short story using multiple lines.
 # TODO: 
-print("T")
+
 # 2. Create a string that includes both single and double quotes.
 # TODO:
 
@@ -9,4 +9,3 @@ print("T")
 
 # 4. Combine different types of data (strings and numbers) in one print statement.
 # TODO:
-
